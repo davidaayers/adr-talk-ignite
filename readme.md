@@ -5,7 +5,7 @@ Principal Architect at [Credera](http://www.credera.com)
 
 [@iamagiantnerd](https://twitter.com/iamagiantnerd), david.ayers@credera.com
 
-This is basically the same talk as [this](https://github.com/davidaayers/adr-talk), but in the ignite format (20 auto-advancing slides).
+This is basically the same talk as [this](https://github.com/davidaayers/adr-talk), but in the [ignite](http://www.ignitetalks.io/) format (20 auto-advancing slides).
 
 Talk Abstract
 -------------

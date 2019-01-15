@@ -17,7 +17,6 @@ The Problem
 	Discussing these options with the team
 	Perhaps doing a spike or a "pepsi challenge" to determine a "best fit" for a particular decision
 	And then we go about implementing it
-		Maybe we update a user story with some of the information that led to the decision (usually not though)
 	And all of that context is lost
 
 - Why does that context matter?
@@ -31,8 +30,7 @@ The Solution
 ------------
 
 - ADR: Architecture decision records
-
-- Lightweight, text based solution, usually written in Markdown
+	Lightweight, text based solution, usually written in Markdown
 	Markdown allows "pretty" rendering when used with Github, Gitlab & others, still human readable
 
 - ADRs are saved *with* the project
@@ -94,16 +92,8 @@ The Benefits
 
 - Informs current decision making processes - by looking at all of the decisions that were made in a project, one can get a sense for the types of decisions that are made, which in itself is informative and provides context
 
-- ADRs = Goodness!
-
-- Recommended by ThoughtWorks Technology Radar
+- Don't just take my word -- recommended by ThoughtWorks Technology Radar
 	https://www.thoughtworks.com/radar/techniques
-
-Parting Thoughts
-----------------
-
-- What decisions should be documented this way?
-	Like most things, the answer really depends on the norms of the teams you work with. A good rule of thumb -- if you find yourself asking "Should I create an ADR for this?", the answer is probably yes. You can always cut down if you find that you're doing too many. Finding that balance is important for your individual teams.
 
 - Visit the github repo for more links/information about ADRs
 
