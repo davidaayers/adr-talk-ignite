@@ -1,6 +1,6 @@
 Documenting Architectural Decisions - Ignite Version
 ----------------------------------------------------
-Presented by: David Ayers, 
+Presented by: David Ayers, [Full bio](https://github.com/davidaayers/speaker-info/blob/master/bio.md)
 Principal Architect at [Credera](http://www.credera.com)
 
 Web: [iamagiantnerd.com](http://iamagiantnerd.com), Twitter: [@iamagiantnerd](https://twitter.com/iamagiantnerd), Email: david.ayers@credera.com
