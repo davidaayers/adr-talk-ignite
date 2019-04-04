@@ -1,10 +1,9 @@
 Documenting Architectural Decisions - Ignite Version
 ----------------------------------------------------
-Presented by: David Ayers, ([Full bio](https://github.com/davidaayers/speaker-info/blob/master/bio.md))
-
-Principal Architect at [Credera](http://www.credera.com)
-
-Web: [iamagiantnerd.com](http://iamagiantnerd.com) | Twitter: [@iamagiantnerd](https://twitter.com/iamagiantnerd) | LinkedIn: [davidaayers](https://www.linkedin.com/in/davidaayers/) | Email: david.ayers@credera.com
+Presented by: David Ayers<br>
+Innovative Technology Professional | Passionate Lifelong Learner | Giant Nerd <br>
+[Full Bio](https://github.com/davidaayers/speaker-info/blob/master/bio.md)<br>
+[@iamagiantnerd](https://twitter.com/iamagiantnerd), iamagiantnerd@gmail.com
 
 This is basically the same talk as [this](https://github.com/davidaayers/adr-talk), but in the [ignite](http://www.ignitetalks.io/) format (20 auto-advancing slides).
 
